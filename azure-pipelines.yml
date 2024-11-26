@@ -5,10 +5,8 @@
 trigger:
  branches:
    include:
-     - master
-     - main
-     - test
-
+     - none
+     
 
 resources:
 - repo: self
